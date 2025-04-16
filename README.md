@@ -12,26 +12,22 @@ A clean, modern subscription service interface with elegant pricing plans and se
 - **Easy Signup Process** - Streamlined user experience
 - **Modern UI Components** - Built with React for smooth interactions
 
-## 🚀 Live Demo
-
-[View Demo](https://your-demo-link-here.com)
-
 ## 🖼️ Screenshot
 
-![Subscription UI Preview](/screenshot.png)
+![Subscription UI Preview](Screenshot%202025-04-16%20192629.png)
 
 ## 💻 Technologies
 
 - React.js
-- CSS/SCSS
-- React Router
+- CSS
+- HTML
 - Modern JavaScript (ES6+)
 
 ## 🛠️ Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/subscription-service.git
+git clone https://github.com/zynoxprince/subscription-service.git
 
 # Navigate to project folder
 cd subscription-service
